@@ -29,6 +29,12 @@
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,tailwind,git,github,vscode&theme=dark&perline=10" alt="stack" />
 </div>
 
+<h2 align="center">Design</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,id,lr&theme=dark&perline=6" alt="Adobe design tools" />
+</div>
+
 ---
 
 <div align="center">
