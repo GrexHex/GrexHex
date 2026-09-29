@@ -1,83 +1,55 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devesh%20Moodley&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Always%20Shipping&descSize=18&descAlignY=58" alt="header" />
+  <img src="assets/banner.svg" width="100%" alt="Devesh Moodley" />
 </div>
 
 <div align="center">
   <a href="https://github.com/GrexHex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh+Moodley;Building+at+SilentDeer+Agency+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh;I+build+web+apps+%26+AI+products+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+together+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=GrexHex&label=Profile+views&color=7c3aed&style=for-the-badge" alt="views" />
+  <a href="https://github.com/GrexHex?tab=followers"><img src="https://img.shields.io/github/followers/GrexHex?style=for-the-badge&logo=github&color=238636" alt="followers" /></a>
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GrexHex&label=Profile+views&color=0e75b6&style=flat-square" alt="views" />
-  <a href="https://github.com/GrexHex?tab=followers"><img src="https://img.shields.io/github/followers/GrexHex?style=flat-square&logo=github&color=238636" alt="followers" /></a>
+  <img src="assets/terminal.svg" width="700" alt="about me" />
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+---
 
-```ts
-const devesh = {
-  name: "Devesh Moodley",
-  handle: "GrexHex",
-  company: "SilentDeer Agency",
-  location: "South Africa 🇿🇦",
-  building: ["web apps", "AI-powered products", "things people actually use"],
-  stack: ["TypeScript", "Vue", "Git"],
-  fuelledBy: "coffee ☕",
-  openTo: "collaboration 🤝",
-} as const;
-```
-
-<br/>
-
-## 🛠️ Tech Stack
+<h2 align="center">⚔️ Tools &amp; Tech ⚔️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,git,github,vscode&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,tailwind,git,github,vscode&theme=dark&perline=10" alt="stack" />
 </div>
 
-<br/>
+---
 
-## ⚡ Currently
-
-- 🔨 Shipping products at **SilentDeer Agency**
-- 🧠 Exploring AI-assisted development
-- 🎯 Making things that solve real problems for South Africans
-
-<br/>
-
-## 📊 GitHub Stats
+<h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GrexHex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrexHex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=GrexHex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" alt="stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrexHex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GrexHex&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GrexHex&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GrexHex&bg_color=0D1117&color=C084FC&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Devesh's%20Contribution%20Graph" alt="activity graph" />
 </div>
 
-<br/>
+---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GrexHex&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GrexHex&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="activity graph" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Snake</h2>
 
 <div align="center">
   <picture>
@@ -87,12 +59,16 @@ const devesh = {
   </picture>
 </div>
 
-## 💬 Words to Code By
+---
+
+<h2 align="center">🏆 Trophies</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GrexHex&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
