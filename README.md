@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/pixel-scene.svg" width="100%" alt="pixel city with a running cat" />
+  <img src="assets/pixel-landscape.png" width="100%" alt="pixel landscape" />
 </div>
 
 <br/>
@@ -31,19 +31,7 @@
 ---
 
 <div align="center">
-  <img src="assets/stats-banner.jpg" width="100%" alt="stats banner" />
-</div>
-
-<h2 align="center">Stats</h2>
-
-<div align="center">
-  <img src="profile-summary-card-output/radical/0-profile-details.svg" width="49%" alt="profile details" />
-  <img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="stats" />
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="most commit language" />
-  <img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="productive time" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GrexHex&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+  <img src="assets/stats-banner.jpg" width="100%" alt="banner" />
 </div>
 
 ---
