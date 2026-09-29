@@ -1,16 +1,37 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=GrexHex&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Always%20Shipping&descSize=18&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devesh%20Moodley&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Always%20Shipping&descSize=18&descAlignY=58" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/GrexHex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+GrexHex;Building+things+for+the+web+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh+Moodley;Building+at+SilentDeer+Agency+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GrexHex&label=Profile+views&color=0e75b6&style=flat-square" alt="views" />
   <a href="https://github.com/GrexHex?tab=followers"><img src="https://img.shields.io/github/followers/GrexHex?style=flat-square&logo=github&color=238636" alt="followers" /></a>
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+- 💼 Developer at **SilentDeer Agency**
+- 🇿🇦 Building web apps and AI-powered products for South Africa
+- 🤝 Open to collaboration
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 <br/>
