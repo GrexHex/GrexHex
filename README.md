@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/art1.png" width="32%" alt="" />
+  <img src="assets/art-left.png" width="32%" alt="" />
   <img src="assets/art2.png" width="32%" alt="" />
   <img src="assets/art3.png" width="32%" alt="" />
 </div>
@@ -26,7 +26,7 @@
 <h2 align="center">Tools &amp; Tech</h2>
 
 <div align="center">
-  <img src="assets/tools.svg" alt="TypeScript, JavaScript, Vue, Node, HTML, CSS, Tailwind, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,tailwind,git,github,vscode&theme=dark&perline=10" alt="stack" />
 </div>
 
 ---
@@ -38,7 +38,7 @@
 <h2 align="center">Design</h2>
 
 <div align="center">
-  <img src="assets/design.svg" alt="Photoshop, Illustrator, After Effects, Premiere Pro, InDesign, Lightroom" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&theme=dark&perline=4" alt="Photoshop, Illustrator, After Effects, Premiere Pro" />
 </div>
 
 ---
