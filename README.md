@@ -32,19 +32,13 @@
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=GrexHex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" alt="stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrexHex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" width="49%" alt="profile details" />
+  <img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="stats" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="most commit language" />
+  <img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="productive time" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GrexHex&theme=radical&hide_border=true&background=0D1117" alt="streak" />
-</div>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GrexHex&bg_color=0D1117&color=C084FC&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Devesh's%20Contribution%20Graph" alt="activity graph" />
 </div>
 
 ---
@@ -60,12 +54,6 @@
 </div>
 
 ---
-
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GrexHex&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
