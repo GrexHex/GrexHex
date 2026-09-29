@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Devesh Moodley" />
+  <img src="assets/hero.jpg" width="100%" alt="Devesh Moodley" />
 </div>
 
 <div align="center">
@@ -21,6 +21,10 @@
 
 ---
 
+<div align="center">
+  <img src="assets/eye.png" width="220" alt="" />
+</div>
+
 <h2 align="center">Tools &amp; Tech</h2>
 
 <div align="center">
@@ -28,6 +32,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="assets/stats-banner.jpg" width="100%" alt="stats banner" />
+</div>
 
 <h2 align="center">Stats</h2>
 
@@ -59,4 +67,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+<img src="assets/footer.jpg" width="100%" alt="footer" />
