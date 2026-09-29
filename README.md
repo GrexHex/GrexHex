@@ -17,22 +17,34 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Developer at **SilentDeer Agency**
-- 🇿🇦 Building web apps and AI-powered products for South Africa
-- 🤝 Open to collaboration
+```ts
+const devesh = {
+  name: "Devesh Moodley",
+  handle: "GrexHex",
+  company: "SilentDeer Agency",
+  location: "South Africa 🇿🇦",
+  building: ["web apps", "AI-powered products", "things people actually use"],
+  stack: ["TypeScript", "Vue", "Git"],
+  fuelledBy: "coffee ☕",
+  openTo: "collaboration 🤝",
+} as const;
+```
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,git,github,vscode&theme=dark" alt="stack" />
 </div>
+
+<br/>
+
+## ⚡ Currently
+
+- 🔨 Shipping products at **SilentDeer Agency**
+- 🧠 Exploring AI-assisted development
+- 🎯 Making things that solve real problems for South Africans
 
 <br/>
 
@@ -74,5 +86,13 @@
     <img alt="snake" src="https://raw.githubusercontent.com/GrexHex/GrexHex/output/github-snake.svg" />
   </picture>
 </div>
+
+## 💬 Words to Code By
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
