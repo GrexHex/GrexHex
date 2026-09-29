@@ -26,19 +26,19 @@
 <h2 align="center">Tools &amp; Tech</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,tailwind,git,github,vscode&theme=dark&perline=10" alt="stack" />
-</div>
-
-<h2 align="center">Design</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,id,lr&theme=dark&perline=6" alt="Adobe design tools" />
+  <img src="assets/tools.svg" alt="TypeScript, JavaScript, Vue, Node, HTML, CSS, Tailwind, Git, GitHub, VS Code" />
 </div>
 
 ---
 
 <div align="center">
   <img src="assets/stats-banner.jpg" width="100%" alt="banner" />
+</div>
+
+<h2 align="center">Design</h2>
+
+<div align="center">
+  <img src="assets/design.svg" alt="Photoshop, Illustrator, After Effects, Premiere Pro, InDesign, Lightroom" />
 </div>
 
 ---
