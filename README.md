@@ -12,7 +12,7 @@
 <div align="center">
   <img src="assets/art-left.png" width="32%" alt="" />
   <img src="assets/art2.png" width="32%" alt="" />
-  <img src="assets/art3.png" width="32%" alt="" />
+  <img src="assets/art-right.png" width="32%" alt="" />
 </div>
 
 <br/>
