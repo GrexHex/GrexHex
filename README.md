@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/GrexHex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh;I+build+web+apps+%26+AI+products+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+together+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Devesh;I+build+web+apps+%26+AI+products;Turning+coffee+into+code;Let's+build+something+together" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=GrexHex&label=Profile+views&color=7c3aed&style=for-the-badge" alt="views" />
@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">⚔️ Tools &amp; Tech ⚔️</h2>
+<h2 align="center">Tools &amp; Tech</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,html,css,tailwind,git,github,vscode&theme=dark&perline=10" alt="stack" />
@@ -29,7 +29,7 @@
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <img src="profile-summary-card-output/radical/0-profile-details.svg" width="49%" alt="profile details" />
@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center">🐍 Snake</h2>
+<h2 align="center">Snake</h2>
 
 <div align="center">
   <picture>
